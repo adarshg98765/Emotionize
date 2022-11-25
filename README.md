@@ -7,4 +7,4 @@ Trained using RAVDESS and TESS datasets.
 
 Achieved a final validation accuracy of 91%.
 
-![image](https://drive.google.com/file/d/1Xa2GE9xZTB-w27-Ro3U0bSnq3FJwvOEo/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/63662617/204026045-416ad07d-aee9-4499-82f5-4d8cc3161338.png)
